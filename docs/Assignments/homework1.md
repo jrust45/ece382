@@ -218,7 +218,7 @@ CCS comes with built-in GIT, and it can be opened from CCS menu > View > Other >
 ### Hardware Diagnostics Tool
 
 - Click 🙋 FAQ on the left sidebar of this website. If the sidebar is hidden, click the hamburger button (the triple bars ☰). 
-- Go to _How to run the hardware diagnostics tool for hardware issues on my robot?_ section and complete the hardware diagnotics.
+- Go to _Troubleshooting Hardware Issues: Using the Hardware Diagnostic Tool_ section and complete the _Running the Hardware Diagnostic Tool_ section.
 - While you are running the tool, take a picture of your robot. Your picture must show one of the tests on the LCD as shown below. Ensure you have a small AF symbol on each test screen.
 - Submit the picture on Gradescope.
 
